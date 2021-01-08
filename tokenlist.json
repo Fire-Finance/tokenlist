@@ -1,6 +1,6 @@
 {
   "name": "ArkSwap",
-  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/main/assets/ARK.svg",
+  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.svg",
   "keywords": [
     "arkswap",
     "defi"
@@ -13,7 +13,7 @@
       "symbol": "ARK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/main/assets/ARK.png"
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
     },
     {
       "name": "Wrapped HT",
@@ -21,7 +21,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/main/assets/HT.png"
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HT.png"
     },
     {
       "name": "Heco-Peg HUSD Token",
@@ -29,7 +29,7 @@
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/main/assets/HUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
     },
     {
       "name": "Heco-Peg ETH Token",
@@ -37,7 +37,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/main/assets/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
@@ -45,7 +45,7 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/main/assets/BTC.png"
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png"
     }
   ],
   "version": {
