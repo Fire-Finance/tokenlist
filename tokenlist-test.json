@@ -14,6 +14,14 @@
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "name": "INT",
+      "address": "0x0db740319ca5fe2b7711591a744b6e0d6757fe7e",
+      "symbol": "INT",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
     }
   ],
   "version": {
@@ -22,4 +30,3 @@
     "patch": 0
   }
 }
-
