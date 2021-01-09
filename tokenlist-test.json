@@ -8,14 +8,6 @@
   "timestamp": "2021-01-03T12:37:57.000+00:00",
   "tokens": [
     {
-      "name": "ArkSwap Governance Token",
-      "address": "0x9add7c7a46f9330737c9d52d586cf27fe698b0ad",
-      "symbol": "ARK",
-      "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
-    },
-    {
       "name": "USDT",
       "address": "0xf9c05a0be7cea412a763fd38cd70e3ef81a93149",
       "symbol": "USDT",
