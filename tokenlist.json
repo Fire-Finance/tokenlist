@@ -46,6 +46,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png"
+    },
+    {
+      "name": "So Finance long",
+      "address": "0x7e832ce61265a2e765928d5a6a7f3df291dfae2f",
+      "symbol": "SFI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/SFI.jpeg"
+    },
+    {
+      "name": "SFX",
+      "address": "0x60e29944e3fa3a041fce9f9c4bb8f649cfc5a232",
+      "symbol": "SFX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/SFX.jpeg"
     }
   ],
   "version": {
