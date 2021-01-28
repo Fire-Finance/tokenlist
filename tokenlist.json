@@ -48,6 +48,14 @@
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png"
     },
     {
+      "name": "Heco Internet Node Token",
+      "address": "0x4f4e14baae95d962399597c4c250afe0a4352794",
+      "symbol": "HINT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/INT.png"
+    },
+    {
       "name": "So Finance long",
       "address": "0x7e832ce61265a2e765928d5a6a7f3df291dfae2f",
       "symbol": "SFI",
