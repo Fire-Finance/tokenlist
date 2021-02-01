@@ -48,6 +48,38 @@
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png"
     },
     {
+      "name": "Heco-Peg HBCH Token",
+      "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+      "symbol": "HBCH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HBCH.png"
+    },
+    {
+      "name": "Heco-Peg HLTC Token",
+      "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+      "symbol": "HLTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HLTC.png"
+    },
+    {
+      "name": "Heco-Peg HDOT Token",
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HDOT.png"
+    },
+    {
+      "name": "Heco-Peg USDTHECO Token",
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/USDT.png"
+    },
+    {
       "name": "Heco Internet Node Token",
       "address": "0x4f4e14baae95d962399597c4c250afe0a4352794",
       "symbol": "HINT",
