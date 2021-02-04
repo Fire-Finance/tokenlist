@@ -1,6 +1,6 @@
 {
   "name": "FireSwap",
-  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/fireswap.svg",
+  "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/fireswap.svg",
   "keywords": [
     "arkswap",
     "defi"
@@ -13,7 +13,7 @@
       "symbol": "FFG",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/FFG.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/FFG.png"
     },
     {
       "name": "Fire Basis Cash",
@@ -21,7 +21,7 @@
       "symbol": "FBC",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/FBC.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/FBC.png"
     },
     {
       "name": "Fire Basis Bond",
@@ -29,7 +29,7 @@
       "symbol": "FBB",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/FBB.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/FBB.png"
     },
     {
       "name": "Wrapped HT",
@@ -37,7 +37,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HT.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/HT.png"
     },
     {
       "name": "Heco-Peg HUSD Token",
@@ -45,7 +45,7 @@
       "symbol": "HUSD",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/HUSD.png"
     },
     {
       "name": "Heco-Peg ETH Token",
@@ -53,7 +53,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/ETH.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
@@ -61,7 +61,7 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/BTC.png"
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/BTC.png"
     }
   ],
   "version": {
