@@ -1,6 +1,6 @@
 {
-  "name": "ArkSwapTest",
-  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.svg",
+  "name": "FireSwap",
+  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/fireswap.svg",
   "keywords": [
     "arkswap",
     "defi"
@@ -8,12 +8,28 @@
   "timestamp": "2021-01-03T12:37:57.000+00:00",
   "tokens": [
     {
-      "name": "ArkSwap Governance Token",
-      "address": "0x9add7c7a46f9330737c9d52d586cf27fe698b0ad",
-      "symbol": "ARK",
+      "name": "Fire Finance Governance",
+      "address": "0x62983ac6a5575d44416a6b4a7e6eb4d80b82f0dd",
+      "symbol": "FFG",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/FFG.png"
+    },
+    {
+      "name": "Fire Basis Cash",
+      "address": "0x9de4a41a643cae6312393b8aae9b4f10d502f77c",
+      "symbol": "FBC",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/FBC.png"
+    },
+    {
+      "name": "Fire Basis Bond",
+      "address": "0xa88d12da63b61157ae30009b038ad8e9400c1664",
+      "symbol": "FBB",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/FBB.png"
     },
     {
       "name": "Wrapped HT",

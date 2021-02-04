@@ -1,2 +1,2 @@
 # tokenlist
-Arkswap Token List
+FireSwap Token List
