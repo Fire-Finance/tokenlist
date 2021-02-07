@@ -41,7 +41,7 @@
     },
     {
       "name": "Heco-Peg HUSD Token",
-      "address": "0x759de9811e677b9f1ba4ed8ba0b634ac6c719c98",
+      "address": "0x8dd66eefef4b503eb556b1f50880cc04416b916b",
       "symbol": "HUSD",
       "decimals": 18,
       "chainId": 256,
@@ -49,20 +49,29 @@
     },
     {
       "name": "Heco-Peg ETH Token",
-      "address": "0x90e2114365ab735b25a90853945647ab234e3501",
-      "symbol": "ETH",
+      "address": "0xfeb76ae65c11b363bd452afb4a7ec59925848656",
+      "symbol": "HETH",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/ETH.png"
     },
     {
-      "name": "Heco-Peg HBTC Token",
-      "address": "0x4419a6ef9dcffab3d3e2d5eabefa516a0a9815f2",
+      "name": "Heco-Peg BTC Token",
+      "address": "0x1d8684e6cdd65383affd3d5cf8263fcda5001f13",
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/BTC.png"
+    },
+    {
+      "name": "Heco-Peg DOT Token",
+      "address": "0xabe5aca6c8996482b6a7cd3f63a02fabcc20bae7",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/Fire-Finance/tokenlist/master/assets/HDOT.png"
     }
+    
   ],
   "version": {
     "major": 0,
